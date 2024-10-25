@@ -1,1 +1,1 @@
-# AI-chatbot
+A simple,interactive chatbot designed to simulate conversation,assist with queries,or provide general responses.This project demonstrates essential chatbot functionalities,including natural language processing,handling user input ,and generating responses.
